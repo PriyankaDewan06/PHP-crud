@@ -7,3 +7,8 @@ CRUD is an acronym for Create, Read, Update, and Delete. CRUD operations are bas
 
 
 ### Steps to do this project
+   1. Creating the Database Table
+   2. Creating the Class File
+   3. Creating the Home Page
+   4. Creating the Edit Page
+   5. Creating the Delete Page
